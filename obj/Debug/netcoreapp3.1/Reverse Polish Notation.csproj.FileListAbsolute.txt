@@ -1,0 +1,11 @@
+D:\ITEA\Reverse Polish Notation\obj\Debug\netcoreapp3.1\Reverse Polish Notation.csprojAssemblyReference.cache
+D:\ITEA\Reverse Polish Notation\obj\Debug\netcoreapp3.1\Reverse Polish Notation.AssemblyInfoInputs.cache
+D:\ITEA\Reverse Polish Notation\obj\Debug\netcoreapp3.1\Reverse Polish Notation.AssemblyInfo.cs
+D:\ITEA\Reverse Polish Notation\bin\Debug\netcoreapp3.1\Reverse Polish Notation.exe
+D:\ITEA\Reverse Polish Notation\bin\Debug\netcoreapp3.1\Reverse Polish Notation.deps.json
+D:\ITEA\Reverse Polish Notation\bin\Debug\netcoreapp3.1\Reverse Polish Notation.runtimeconfig.json
+D:\ITEA\Reverse Polish Notation\bin\Debug\netcoreapp3.1\Reverse Polish Notation.runtimeconfig.dev.json
+D:\ITEA\Reverse Polish Notation\bin\Debug\netcoreapp3.1\Reverse Polish Notation.dll
+D:\ITEA\Reverse Polish Notation\bin\Debug\netcoreapp3.1\Reverse Polish Notation.pdb
+D:\ITEA\Reverse Polish Notation\obj\Debug\netcoreapp3.1\Reverse Polish Notation.dll
+D:\ITEA\Reverse Polish Notation\obj\Debug\netcoreapp3.1\Reverse Polish Notation.pdb
